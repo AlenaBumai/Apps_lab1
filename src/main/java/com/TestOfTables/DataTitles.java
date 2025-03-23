@@ -8,7 +8,7 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
 public class DataTitles {
-    //БД. ВСТАВИТЬ В БД ПРИНИМАЕМОЕ ЛЕКАРСТВО ******** create
+    //Б
     //******************************************
     public static void insertBook(String isbn, String title, int editionNumber, int year, String publisherName, float price, String authorName, String authorLastName) {
 
@@ -49,4 +49,6 @@ public class DataTitles {
         }
 
     }
+
+
 }
